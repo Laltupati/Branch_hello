@@ -1,1 +1,2 @@
-echo "hello world "$date" "$time"
+#!/bin/bash
+echo "helloworld"
