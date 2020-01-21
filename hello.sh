@@ -1,2 +1,3 @@
-echo "hello world "$date" "$time"
+#!/bin/bash
+echo "helloworld"
 echo "I am in defect branch"
